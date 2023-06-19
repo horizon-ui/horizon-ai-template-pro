@@ -21,7 +21,7 @@ It comes with over 100+ dark/light frontend individual elements, like buttons, i
 
 ### Documentation
 
-Each element is well presented in a very complex documentation. You can read more about the <a href="https://horizon-ui.com/docs-ai-template/?ref=readme-horizon-ai-template-pro" target="_blank">documentation here.</a>
+Each element is well presented in a very complex documentation. You can read more about the <a href="https://horizon-ui.com/docs-ai-template/docs/introduction?ref=readme-horizon-ai-template-pro" target="_blank">documentation here.</a>
 
 ### Quick Start
 
