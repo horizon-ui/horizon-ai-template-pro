@@ -4,7 +4,7 @@
 
 ### 🐛 Bug Generated content Prompt Markdown - Solved
 
-Generated content Prompt Markdown on all prompts - Solved
+Generated Markdown Prompt content solved on all prompts
 
 ## [1.0.0] 2023-06-20
 
