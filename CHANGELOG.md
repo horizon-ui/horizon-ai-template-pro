@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.2.1] 2023-06-29
+
+### 🐛 Bug fixing - SEO Keywords Prompt fixed
+
+SEO Keywords Prompt fixed
+
 ## [1.2.0] 2023-06-27
 
 ### Added Plagiarism Checker Prompt
