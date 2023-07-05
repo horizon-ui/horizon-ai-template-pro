@@ -1,6 +1,6 @@
 # [Horizon AI Template PRO](https://horizon-ui.com/ai-template) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20Horizon%20AI%20Template,%20the%20trendiest%20ChatGPT%20AI%20admin%20template%20for%20%23nextjs%20and%20%23react!%0A%0Ahorizon-ui.com/ai-template%20)
 
-![version](https://img.shields.io/badge/version-1.2.1-brightgreen.svg)
+![version](https://img.shields.io/badge/version-1.3.0-brightgreen.svg)
 [![GitHub issues open](https://img.shields.io/github/issues/horizon-ui/horizon-ai-template-pro.svg?maxAge=2592000)](https://github.com/horizon-ui/horizon-ai-template-pro/issues?q=is%3Aopen+is%3Aissue)
 
 <p>&nbsp;</p>
