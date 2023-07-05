@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.3.0] 2023-07-05
+
+### Added Hashtags Generator Prompt
+
+Added Hashtags Generator Prompt
+
 ## [1.2.1] 2023-06-29
 
 ### 🐛 Bug fixing - SEO Keywords Prompt fixed
