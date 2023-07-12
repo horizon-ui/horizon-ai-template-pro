@@ -2,9 +2,9 @@
 
 ## [1.4.0] 2023-07-12
 
-### Added Travel Planner Prompt
+### Added Pet Name Generator Prompt
 
-Added Travel Planner Prompt
+Added Pet Name Generator Prompt
 
 ## [1.3.0] 2023-07-05
 
