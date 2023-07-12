@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.4.0] 2023-07-12
+
+### Added Travel Planner Prompt
+
+Added Travel Planner Prompt
+
 ## [1.3.0] 2023-07-05
 
 ### Added Hashtags Generator Prompt
