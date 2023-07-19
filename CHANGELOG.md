@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.5.0] 2023-07-19
+
+### Added Content Translator Prompt
+
+Added Content Translator Prompt
+
 ## [1.4.0] 2023-07-12
 
 ### Added Pet Name Generator Prompt
