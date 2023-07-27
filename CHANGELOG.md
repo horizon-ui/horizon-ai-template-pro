@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.6.0] 2023-07-27
+
+### Added Domain Name Generator Prompt
+
+Added Domain Name Generator Prompt
+
 ## [1.5.0] 2023-07-19
 
 ### Added Content Translator Prompt
