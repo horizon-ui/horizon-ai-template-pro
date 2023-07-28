@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.7.0] 2023-07-28
+
+### Added Bootstrap to Tailwind CSS code Convertor
+
+Added Bootstrap to Tailwind CSS code Convertor
+
 ## [1.6.0] 2023-07-27
 
 ### Added Domain Name Generator Prompt
