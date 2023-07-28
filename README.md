@@ -15,7 +15,7 @@ Get started and build your dream AI web app with Horizon AI Template, the trendi
 
 ### Introduction
 
-Horizon AI Template is the world's best OpenAI ChatGPT AI Template made with React, NextJS and Chakra UI! Start creating outstanding AI SaaS Apps, Projects & Prompts 10X faster.
+Horizon AI Template is the world's best OpenAI ChatGPT AI Template made with React, NextJS, and Chakra UI! Start creating outstanding AI SaaS Apps, Projects & Prompts 10X faster.
 
 It comes with over 100+ dark/light frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
 
