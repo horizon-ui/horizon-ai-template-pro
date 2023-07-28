@@ -2,9 +2,9 @@
 
 ## [1.7.0] 2023-07-28
 
-### Added Bootstrap to Tailwind CSS code Convertor
+### Added Bootstrap to Tailwind CSS code Converter
 
-Added Bootstrap to Tailwind CSS code Convertor
+Added Bootstrap to Tailwind CSS code Converter
 
 ## [1.6.0] 2023-07-27
 
