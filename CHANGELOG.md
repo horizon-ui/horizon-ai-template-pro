@@ -1,10 +1,22 @@
 # Changelog
 
+## [2.0.0] 2024-01-11
+
+### Added GPT-4 + Solved prompts
+
+Added GPT-4 + Solved prompts (spacings)
+
+## [1.8.0] 2023-10-25
+
+### Next.js app directory
+
+Changed the structure of the template to the new Next.js App directory!
+
 ## [1.7.0] 2023-07-28
 
-### Added Bootstrap to Tailwind CSS code Converter
+### Added Bootstrap to Tailwind CSS code Convertor
 
-Added Bootstrap to Tailwind CSS code Converter
+Added Bootstrap to Tailwind CSS code Convertor
 
 ## [1.6.0] 2023-07-27
 
