@@ -51,11 +51,6 @@ npm run dev
 - Make sure you have your billing info added in [OpenAI Billing page](https://platform.openai.com/account/billing/overview). Without billing info, your API key will not work.
 - The app will connect to the OpenAI API server to check if your API Key is working properly. 
 
-### ATTENTION: The model: `GPT-4` does not work yet. 
-If you are trying to use GPT-4, model it will not work if you don't have access from OpenAI.
-Note that even if you have ChatGPT Plus, you still need to request access to the GPT-4 API in order to use it with your API Key.
-This is OpenAI's restriction and we can't do anything about it. You can join the waitlist [here](https://openai.com/waitlist/gpt-4-api).
-
 ### Example Pages
 
 If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
