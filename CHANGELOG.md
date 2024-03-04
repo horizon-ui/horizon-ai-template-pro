@@ -1,5 +1,23 @@
 # Changelog
 
+## [2.3.0] 2024-02-10
+
+### Added AI Assistant
+
+- Added AI assistant page, which should be provided with the assistant key variable (NEXT_PUBLIC_OPENAI_ASSISTANT_KEY=asst_**************************) in order to work. 
+
+## [2.2.0] 2024-02-03
+
+### Next.js 14
+
+Updated to next 14.1.0 and removed pages directory in favor of app directory.
+
+## [2.1.0] 2024-01-16
+
+### Chakra UI 2.X.X
+
+Updated all Chakra UI libraries.
+
 ## [2.0.0] 2024-01-11
 
 ### Added GPT-4 + Solved prompts
